@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [madhurvatsal.herokuapp.com](madhurvatsal.herokuapp.com)
-
 - 📫 How to reach me: **bhartimadhur21@gmail.com**
 
 - ⚡ Fun fact **I am a Photographer.**
