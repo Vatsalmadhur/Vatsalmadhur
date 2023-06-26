@@ -1,9 +1,9 @@
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">𝓗𝓲𝓲 , myself Madhur Vatsal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%ffffff&size=25&weight=800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;at+M+M+M+U+T;Full+Stack+Developer;Always+ready+to+learn"></a>
 </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalmadhur&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalmadhur" /> </p>
 
