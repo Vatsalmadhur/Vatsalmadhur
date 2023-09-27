@@ -32,9 +32,13 @@
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalmadhur&theme=synthwave" alt="vatsalmadhur"/></p>
 
+[![An image of @vatsalmadhur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vatsalmadhur)](https://holopin.io/@vatsalmadhur)
+
 ![Snake animation](https://github.com/Vatsalmadhur/Vatsalmadhur/blob/output/github-contribution-grid-snake.svg)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 
