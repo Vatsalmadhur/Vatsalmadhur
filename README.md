@@ -11,7 +11,7 @@ I thrive in crafting engaging user experiences, and my proficiency extends to fr
  <img align="right" src="https://media.tenor.com/VU4GTdJzFNAAAAAM/doric-typing.gif"/>
 
 
-- 👨‍💻 All of my projects are available at [vatsalmadhur.github.io](https://www.vatsalmadhur.github.io)
+- 👨‍💻 All of my projects are available at [madhurvatsal.biz](https://vatsalmadhur.github.io)
 
 - 📫 How to reach me **bhartimadhur21@gmail.com**
 
