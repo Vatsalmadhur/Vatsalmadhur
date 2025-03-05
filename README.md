@@ -5,7 +5,7 @@
 
 
 # About Me:
-<p  >Hello! I'm a third-year B.Tech student at Madan Mohan Malaviya University of Technology, specializing in web development. My journey in this field has been incredibly exciting—I've delved deep into frontend technologies, honing my skills in HTML, CSS, and JavaScript.
+<p  >Hello! I'm a final-year B.Tech student at Madan Mohan Malaviya University of Technology, specializing in frontend web development. My journey in this field has been incredibly exciting—I've delved deep into frontend technologies, honing my skills in HTML, CSS, and JavaScript.
 I thrive in crafting engaging user experiences, and my proficiency extends to frameworks like React.js and Next.js. Alongside this, I've ventured into the world of backend development, gaining valuable insight into Node.js, Express.js, and MongoDB.</p>
 
  <img align="right" src="https://media.tenor.com/VU4GTdJzFNAAAAAM/doric-typing.gif"/>
